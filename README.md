@@ -18,5 +18,12 @@ HOW TO INSTAL
 
 https://www.youtube.com/watch?v=vt4kU_9-X6w&feature=youtu.be
 
-GlamoreDN File Server Full
+#GlamoreDN File Server Full
+
 https://drive.google.com/open?id=1yFDy3fEn504vFRuv5SW_BOGQJi57zMMn
+Fitur
+1.full mod
+2.Fix 2nd Machina
+3.add tier 2 Scila by Me
+4.add new quest event NPC 
+5.ETC
