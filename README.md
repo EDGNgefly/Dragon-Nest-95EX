@@ -28,9 +28,7 @@ Fitur
 
 2.Fix 2nd Machina
 
-3.add tier
-
-2 Scila by Me
+3.add tier 2 Scila armor+weapon by Me
 
 4.add new quest event NPC 
 
