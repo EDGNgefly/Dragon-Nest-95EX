@@ -1,6 +1,6 @@
 # Dragon-Nest-Ex95
 
-File Server Dragon Nest Semi Official 95EX(old)
+File Server Dragon Nest Semi Official 95EX
 ========================
 Bahan-Bahan
 
@@ -17,3 +17,6 @@ Bahan-Bahan
 HOW TO INSTAL
 
 https://www.youtube.com/watch?v=vt4kU_9-X6w&feature=youtu.be
+
+GlamoreDN File Server Full
+https://drive.google.com/open?id=1yFDy3fEn504vFRuv5SW_BOGQJi57zMMn
