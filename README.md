@@ -4,32 +4,27 @@ File Server Dragon Nest Semi Official 95EX
 ========================
 Bahan-Bahan
 
-1.DataBase : https://bit.ly/2zWeKsO
+1.DataBase : Soon
 
-2.Client : https://bit.ly/2QtxV2A
+2.Client : https://drive.google.com/open?id=1VSfI0sW03l-AS_0IO8Q2CNrKTz0Zs-B- (MiniClient,Use SDO 359)
 
-3.Server : https://bit.ly/2PhAOU5
+3.Server : https://drive.google.com/open?id=10GKMTGhs2QzAhmEqfS5xSOlwmyJzQ1v0
 
-4.Key : https://bit.ly/2C1j0cb
-
-5.web : https://bit.ly/2RsrfmK
+4.web : https://bit.ly/2RsrfmK
 
 HOW TO INSTAL
 
 https://www.youtube.com/watch?v=vt4kU_9-X6w&feature=youtu.be
 
-#GlamoreDN File Server Full
-
-https://drive.google.com/open?id=1yFDy3fEn504vFRuv5SW_BOGQJi57zMMn
 
 Fitur
 
 1.full mod
 
-2.Fix 2nd Machina
+2.Fix FDN water
 
-3.add tier 2 Scila armor+weapon by Me
+3.Custom Farm for Boss Rush
 
-4.add new quest event NPC 
+4.easy to use
 
 5.ETC
