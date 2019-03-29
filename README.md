@@ -4,13 +4,13 @@ File Server Dragon Nest Semi Official 95EX
 ========================
 Bahan-Bahan
 
-1.DataBase : Soon
+1.DataBase : http://bit.ly/SchanDB
 
-2.Client : https://drive.google.com/open?id=1VSfI0sW03l-AS_0IO8Q2CNrKTz0Zs-B- (MiniClient,Use SDO 359)
+2.Client : http://bit.ly/SchanMini (MiniClient,Use SDO 359)
 
-3.Server : https://drive.google.com/open?id=10GKMTGhs2QzAhmEqfS5xSOlwmyJzQ1v0
+3.Server : http://bit.ly/SchanServer
 
-4.web : https://bit.ly/2RsrfmK
+4.web : http://bit.ly/SchanWeb
 
 HOW TO INSTAL
 
